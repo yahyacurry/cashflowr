@@ -1,0 +1,6 @@
+{
+  "name": "CashFlowr",
+  "description": "A modern mobile-friendly fintech dashboard featuring balance overviews, interactive expenses, a modular calendar, savings goals tracker, and visual budget insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
